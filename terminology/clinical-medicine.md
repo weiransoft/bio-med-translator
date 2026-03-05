@@ -1,0 +1,1197 @@
+# 临床医学与疾病术语库 (Clinical Medicine & Disease Terminology)
+
+## 元数据
+- **术语数量**: 400+
+- **子分类数**: 5
+- **最后更新**: 2026-03-05
+- **版本**: 2.0
+- **领域**: 临床医学
+
+## 使用说明
+
+本术语库涵盖临床医学、疾病分类、诊断、治疗等相关术语。适用于：
+- 临床试验文档
+- 医学研究论文
+- 疾病诊断与治疗
+- 药物注册申报
+
+## 术语来源
+- ICD-10/ICD-11 (International Classification of Diseases)
+- MeSH (Medical Subject Headings)
+- SNOMED CT
+- 中国临床术语标准
+
+---
+
+## A. 疾病分类与病理 (Disease Classification & Pathology)
+
+### 疾病类型
+- Disease | 疾病
+- Disorder | 紊乱
+- Syndrome | 综合征
+- Condition | 病症
+- Illness | 患病
+- Sickness | 疾病
+- Pathology | 病理学
+- Etiology | 病因学
+- Pathogenesis | 发病机制
+- Pathophysiology | 病理生理学
+
+### 疾病特征
+- Acute | 急性
+- Chronic | 慢性
+- Subacute | 亚急性
+- Fulminant | 暴发性
+- Progressive | 进行性
+- Relapsing | 复发性
+- Remitting | 缓解性
+- Refractory | 难治性
+- Resistant | 耐药性
+- Idiopathic | 特发性
+- Primary | 原发性
+- Secondary | 继发性
+- Metastatic | 转移性
+- Localized | 局限性
+- Systemic | 全身性
+- Congenital | 先天性
+- Hereditary | 遗传性
+- Familial | 家族性
+- Sporadic | 散发性
+- Endemic | 地方性
+- Epidemic | 流行性
+- Pandemic | 大流行性
+
+### 病理学
+- Pathology | 病理学
+- Histopathology | 组织病理学
+- Cytopathology | 细胞病理学
+- Molecular Pathology | 分子病理学
+- Surgical Pathology | 外科病理学
+- Clinical Pathology | 临床病理学
+- Anatomic Pathology | 解剖病理学
+- Biopsy | 活检
+- Autopsy | 尸检
+- Necropsy | 尸体解剖
+- Gross Examination | 肉眼检查
+- Microscopic Examination | 显微镜检查
+- Immunohistochemistry (IHC) | 免疫组织化学
+- In Situ Hybridization (ISH) | 原位杂交
+- Fluorescence In Situ Hybridization (FISH) | 荧光原位杂交
+- Special Stain | 特殊染色
+- Hematoxylin and Eosin (H&E) Stain | 苏木精 - 伊红染色
+- Periodic Acid-Schiff (PAS) Stain | 过碘酸 - 雪夫染色
+- Masson's Trichrome Stain | 马松三色染色
+- Silver Stain | 银染色
+- Gram Stain | 革兰氏染色
+- Acid-Fast Stain | 抗酸染色
+- Neoplasia | 肿瘤形成
+- Dysplasia | 发育不良
+- Hyperplasia | 增生
+- Hypertrophy | 肥大
+- Atrophy | 萎缩
+- Metaplasia | 化生
+- Anaplasia | 间变
+- Carcinoma | 癌
+- Sarcoma | 肉瘤
+- Lymphoma | 淋巴瘤
+- Leukemia | 白血病
+- Melanoma | 黑色素瘤
+- Adenoma | 腺瘤
+- Adenocarcinoma | 腺癌
+- Squamous Cell Carcinoma | 鳞状细胞癌
+- Basal Cell Carcinoma | 基底细胞癌
+- Neuroendocrine Tumor | 神经内分泌肿瘤
+- Benign Tumor | 良性肿瘤
+- Malignant Tumor | 恶性肿瘤
+- Borderline Tumor | 交界性肿瘤
+- Precancerous Lesion | 癌前病变
+- Carcinoma In Situ | 原位癌
+- Invasive Carcinoma | 浸润性癌
+- Tumor Grade | 肿瘤分级
+- Tumor Stage | 肿瘤分期
+- TNM Staging | TNM 分期
+- FIGO Staging | FIGO 分期
+- Ann Arbor Staging | Ann Arbor 分期
+- Duke's Staging | Dukes 分期
+- Child-Pugh Score | Child-Pugh 评分
+- ECOG Performance Status | ECOG 体能状态
+- Karnofsky Performance Status | Karnofsky 体能状态
+- Gleason Score | Gleason 评分
+- Breslow Thickness | Breslow 厚度
+- Clark Level | Clark 分级
+
+---
+
+## B. 诊断与检查 (Diagnosis & Examination)
+
+### 诊断方法
+- Diagnosis | 诊断
+- Differential Diagnosis | 鉴别诊断
+- Clinical Diagnosis | 临床诊断
+- Laboratory Diagnosis | 实验室诊断
+- Radiological Diagnosis | 放射学诊断
+- Pathological Diagnosis | 病理学诊断
+- Molecular Diagnosis | 分子诊断
+- Genetic Diagnosis | 遗传学诊断
+- Prenatal Diagnosis | 产前诊断
+- Preimplantation Genetic Diagnosis (PGD) | 植入前遗传学诊断
+- Early Diagnosis | 早期诊断
+- Definitive Diagnosis | 确诊
+- Presumptive Diagnosis | 推定诊断
+- Provisional Diagnosis | 临时诊断
+- Final Diagnosis | 最终诊断
+- Primary Diagnosis | 主要诊断
+- Secondary Diagnosis | 次要诊断
+- Comorbidity | 合并症
+- Complication | 并发症
+- Sequela | 后遗症
+- Recurrence | 复发
+- Relapse | 复发
+- Remission | 缓解
+- Complete Remission (CR) | 完全缓解
+- Partial Remission (PR) | 部分缓解
+- Stable Disease (SD) | 疾病稳定
+- Progressive Disease (PD) | 疾病进展
+- Response | 应答
+- Objective Response | 客观应答
+- Overall Response Rate (ORR) | 总应答率
+- Duration of Response (DoR) | 应答持续时间
+- Progression-Free Survival (PFS) | 无进展生存期
+- Overall Survival (OS) | 总生存期
+- Disease-Free Survival (DFS) | 无病生存期
+- Event-Free Survival (EFS) | 无事件生存期
+- Time to Progression (TTP) | 疾病进展时间
+- Time to Treatment Failure (TTF) | 治疗失败时间
+
+### 体格检查
+- Physical Examination | 体格检查
+- Clinical Examination | 临床检查
+- Medical History | 病史
+- Family History | 家族史
+- Social History | 社会史
+- Medication History | 用药史
+- Allergy History | 过敏史
+- Chief Complaint | 主诉
+- History of Present Illness (HPI) | 现病史
+- Review of Systems (ROS) | 系统回顾
+- Vital Signs | 生命体征
+- Blood Pressure (BP) | 血压
+- Heart Rate (HR) | 心率
+- Respiratory Rate (RR) | 呼吸频率
+- Temperature | 体温
+- Oxygen Saturation (SpO2) | 血氧饱和度
+- Body Mass Index (BMI) | 体重指数
+- General Appearance | 一般情况
+- Mental Status | 精神状态
+- Skin Examination | 皮肤检查
+- Lymph Node Examination | 淋巴结检查
+- Head and Neck Examination | 头颈部检查
+- Cardiovascular Examination | 心血管检查
+- Respiratory Examination | 呼吸系统检查
+- Abdominal Examination | 腹部检查
+- Neurological Examination | 神经系统检查
+- Musculoskeletal Examination | 肌肉骨骼检查
+- Genitourinary Examination | 泌尿生殖系统检查
+- Rectal Examination | 直肠检查
+- Breast Examination | 乳房检查
+- Pelvic Examination | 盆腔检查
+
+### 实验室检查
+- Laboratory Test | 实验室检查
+- Blood Test | 血液检查
+- Urine Test | 尿液检查
+- Stool Test | 粪便检查
+- Cerebrospinal Fluid (CSF) Analysis | 脑脊液检查
+- Synovial Fluid Analysis | 滑液检查
+- Pleural Fluid Analysis | 胸水检查
+- Ascitic Fluid Analysis | 腹水检查
+- Complete Blood Count (CBC) | 血常规
+- Red Blood Cell (RBC) Count | 红细胞计数
+- White Blood Cell (WBC) Count | 白细胞计数
+- Platelet Count | 血小板计数
+- Hemoglobin (Hb) | 血红蛋白
+- Hematocrit (Hct) | 血细胞比容
+- Mean Corpuscular Volume (MCV) | 平均红细胞体积
+- Mean Corpuscular Hemoglobin (MCH) | 平均红细胞血红蛋白量
+- Mean Corpuscular Hemoglobin Concentration (MCHC) | 平均红细胞血红蛋白浓度
+- Red Cell Distribution Width (RDW) | 红细胞分布宽度
+- Differential Count | 白细胞分类计数
+- Neutrophil | 中性粒细胞
+- Lymphocyte | 淋巴细胞
+- Monocyte | 单核细胞
+- Eosinophil | 嗜酸性粒细胞
+- Basophil | 嗜碱性粒细胞
+- Reticulocyte Count | 网织红细胞计数
+- Erythrocyte Sedimentation Rate (ESR) | 血沉
+- C-Reactive Protein (CRP) | C 反应蛋白
+- Procalcitonin (PCT) | 降钙素原
+- Blood Glucose | 血糖
+- Fasting Blood Glucose (FBG) | 空腹血糖
+- Postprandial Blood Glucose (PBG) | 餐后血糖
+- Glycated Hemoglobin (HbA1c) | 糖化血红蛋白
+- Oral Glucose Tolerance Test (OGTT) | 口服葡萄糖耐量试验
+- Lipid Profile | 血脂谱
+- Total Cholesterol (TC) | 总胆固醇
+- Triglyceride (TG) | 甘油三酯
+- High-Density Lipoprotein (HDL) | 高密度脂蛋白
+- Low-Density Lipoprotein (LDL) | 低密度脂蛋白
+- Very Low-Density Lipoprotein (VLDL) | 极低密度脂蛋白
+- Liver Function Test (LFT) | 肝功能检查
+- Alanine Aminotransferase (ALT) | 丙氨酸氨基转移酶
+- Aspartate Aminotransferase (AST) | 天冬氨酸氨基转移酶
+- Alkaline Phosphatase (ALP) | 碱性磷酸酶
+- Gamma-Glutamyl Transferase (GGT) | γ-谷氨酰转移酶
+- Total Bilirubin (TBil) | 总胆红素
+- Direct Bilirubin (DBil) | 直接胆红素
+- Indirect Bilirubin (IBil) | 间接胆红素
+- Albumin (ALB) | 白蛋白
+- Total Protein (TP) | 总蛋白
+- Globulin | 球蛋白
+- Albumin/Globulin Ratio (A/G) | 白球比
+- Prothrombin Time (PT) | 凝血酶原时间
+- Activated Partial Thromboplastin Time (APTT) | 活化部分凝血活酶时间
+- International Normalized Ratio (INR) | 国际标准化比值
+- Fibrinogen | 纤维蛋白原
+- D-Dimer | D-二聚体
+- Renal Function Test | 肾功能检查
+- Blood Urea Nitrogen (BUN) | 血尿素氮
+- Serum Creatinine (Scr) | 血肌酐
+- Estimated Glomerular Filtration Rate (eGFR) | 估算肾小球滤过率
+- Uric Acid (UA) | 尿酸
+- Electrolyte | 电解质
+- Sodium (Na) | 钠
+- Potassium (K) | 钾
+- Chloride (Cl) | 氯
+- Calcium (Ca) | 钙
+- Magnesium (Mg) | 镁
+- Phosphorus (P) | 磷
+- Bicarbonate (HCO3) | 碳酸氢盐
+- Anion Gap | 阴离子间隙
+- Osmolality | 渗透压
+- Cardiac Biomarker | 心脏生物标志物
+- Creatine Kinase (CK) | 肌酸激酶
+- Creatine Kinase-MB (CK-MB) | 肌酸激酶同工酶 MB
+- Lactate Dehydrogenase (LDH) | 乳酸脱氢酶
+- Troponin | 肌钙蛋白
+- Myoglobin | 肌红蛋白
+- Brain Natriuretic Peptide (BNP) | 脑钠肽
+- N-terminal pro-BNP (NT-proBNP) | N 端脑钠肽前体
+- Thyroid Function Test | 甲状腺功能检查
+- Thyroid Stimulating Hormone (TSH) | 促甲状腺激素
+- Free Thyroxine (FT4) | 游离甲状腺素
+- Free Triiodothyronine (FT3) | 游离三碘甲状腺原氨酸
+- Total Thyroxine (TT4) | 总甲状腺素
+- Total Triiodothyronine (TT3) | 总三碘甲状腺原氨酸
+- Thyroglobulin (Tg) | 甲状腺球蛋白
+- Thyroid Peroxidase Antibody (TPOAb) | 甲状腺过氧化物酶抗体
+- Thyroglobulin Antibody (TgAb) | 甲状腺球蛋白抗体
+- TSH Receptor Antibody (TRAb) | TSH 受体抗体
+- Tumor Marker | 肿瘤标志物
+- Alpha-Fetoprotein (AFP) | 甲胎蛋白
+- Carcinoembryonic Antigen (CEA) | 癌胚抗原
+- Cancer Antigen 125 (CA125) | 糖类抗原 125
+- Cancer Antigen 19-9 (CA19-9) | 糖类抗原 19-9
+- Prostate-Specific Antigen (PSA) | 前列腺特异性抗原
+- Free PSA (fPSA) | 游离 PSA
+- Human Epididymis Protein 4 (HE4) | 人附睾蛋白 4
+- Carbohydrate Antigen 15-3 (CA15-3) | 糖类抗原 15-3
+- Carbohydrate Antigen 72-4 (CA72-4) | 糖类抗原 72-4
+- Neuron-Specific Enolase (NSE) | 神经元特异性烯醇化酶
+- Cytokeratin 19 Fragment (CYFRA21-1) | 细胞角蛋白 19 片段
+- Squamous Cell Carcinoma Antigen (SCC) | 鳞状细胞癌抗原
+- Chromogranin A (CgA) | 嗜铬粒蛋白 A
+- Human Chorionic Gonadotropin (hCG) | 人绒毛膜促性腺激素
+- Beta-hCG (β-hCG) | β-hCG
+- Infectious Disease Marker | 传染病标志物
+- Hepatitis B Surface Antigen (HBsAg) | 乙肝表面抗原
+- Hepatitis B Surface Antibody (HBsAb) | 乙肝表面抗体
+- Hepatitis B e Antigen (HBeAg) | 乙肝 e 抗原
+- Hepatitis B e Antibody (HBeAb) | 乙肝 e 抗体
+- Hepatitis B Core Antibody (HBcAb) | 乙肝核心抗体
+- Hepatitis C Antibody (HCV Ab) | 丙肝抗体
+- Human Immunodeficiency Virus Antibody (HIV Ab) | 艾滋病病毒抗体
+- Treponema Pallidum Antibody (TP Ab) | 梅毒螺旋体抗体
+- Cytomegalovirus Antibody (CMV Ab) | 巨细胞病毒抗体
+- Epstein-Barr Virus Antibody (EBV Ab) | EB 病毒抗体
+- Herpes Simplex Virus Antibody (HSV Ab) | 单纯疱疹病毒抗体
+- Immunology Test | 免疫学检查
+- Immunoglobulin G (IgG) | 免疫球蛋白 G
+- Immunoglobulin A (IgA) | 免疫球蛋白 A
+- Immunoglobulin M (IgM) | 免疫球蛋白 M
+- Immunoglobulin E (IgE) | 免疫球蛋白 E
+- Complement C3 | 补体 C3
+- Complement C4 | 补体 C4
+- Antinuclear Antibody (ANA) | 抗核抗体
+- Rheumatoid Factor (RF) | 类风湿因子
+- Anti-Cyclic Citrullinated Peptide (Anti-CCP) | 抗环瓜氨酸肽抗体
+- Antineutrophil Cytoplasmic Antibody (ANCA) | 抗中性粒细胞胞浆抗体
+- Antiphospholipid Antibody (APL) | 抗磷脂抗体
+- Lupus Anticoagulant (LA) | 狼疮抗凝物
+- Anticardiolipin Antibody (ACA) | 抗心磷脂抗体
+- Anti-Beta2 Glycoprotein I Antibody | 抗β2 糖蛋白 I 抗体
+- Autoantibody | 自身抗体
+
+### 影像学检查
+- Imaging | 影像学
+- Radiography | X 线摄影
+- X-Ray | X 射线
+- Computed Tomography (CT) | 计算机断层扫描
+- Magnetic Resonance Imaging (MRI) | 磁共振成像
+- Functional MRI (fMRI) | 功能磁共振成像
+- Diffusion-Weighted Imaging (DWI) | 弥散加权成像
+- Positron Emission Tomography (PET) | 正电子发射断层扫描
+- PET-CT | PET-CT
+- PET-MRI | PET-MRI
+- Single Photon Emission Computed Tomography (SPECT) | 单光子发射计算机断层扫描
+- Ultrasound | 超声
+- Doppler Ultrasound | 多普勒超声
+- Color Doppler | 彩色多普勒
+- Echocardiography | 超声心动图
+- Transesophageal Echocardiography (TEE) | 经食管超声心动图
+- Transthoracic Echocardiography (TTE) | 经胸超声心动图
+- Abdominal Ultrasound | 腹部超声
+- Transvaginal Ultrasound | 经阴道超声
+- Transrectal Ultrasound (TRUS) | 经直肠超声
+- Mammography | 乳腺 X 线摄影
+- Digital Mammography | 数字乳腺 X 线摄影
+- Breast Ultrasound | 乳腺超声
+- Breast MRI | 乳腺 MRI
+- Fluoroscopy | 透视
+- Angiography | 血管造影
+- Coronary Angiography | 冠状动脉造影
+- Cerebral Angiography | 脑血管造影
+- Pulmonary Angiography | 肺血管造影
+- Venography | 静脉造影
+- Lymphangiography | 淋巴管造影
+- Cholangiography | 胆管造影
+- Urography | 尿路造影
+- Myelography | 脊髓造影
+- Arthrography | 关节造影
+- Sialography | 唾液腺造影
+- Hysterosalpingography | 子宫输卵管造影
+- Bone Densitometry | 骨密度测定
+- Dual-Energy X-Ray Absorptiometry (DEXA) | 双能 X 线吸收测定法
+- Quantitative CT (QCT) | 定量 CT
+- Quantitative Ultrasound (QUS) | 定量超声
+- Contrast Agent | 造影剂
+- Gadolinium Contrast | 钆造影剂
+- Iodine Contrast | 碘造影剂
+- Barium Contrast | 钡造影剂
+- Contrast-Enhanced Ultrasound (CEUS) | 超声造影
+- Dynamic Contrast-Enhanced (DCE) | 动态对比增强
+- Diffusion Tensor Imaging (DTI) | 弥散张量成像
+- Perfusion Imaging | 灌注成像
+- Spectroscopy | 波谱学
+- Magnetic Resonance Spectroscopy (MRS) | 磁共振波谱
+
+### 内镜检查
+- Endoscopy | 内镜检查
+- Gastroscopy | 胃镜检查
+- Colonoscopy | 结肠镜检查
+- Esophagogastroduodenoscopy (EGD) | 食管胃十二指肠镜检查
+- Enteroscopy | 小肠镜检查
+- Endoscopic Retrograde Cholangiopancreatography (ERCP) | 内镜逆行胰胆管造影
+- Endoscopic Ultrasound (EUS) | 内镜超声
+- Bronchoscopy | 支气管镜检查
+- Laryngoscopy | 喉镜检查
+- Nasopharyngoscopy | 鼻咽镜检查
+- Cystoscopy | 膀胱镜检查
+- Ureteroscopy | 输尿管镜检查
+- Nephroscopy | 肾镜检查
+- Hysteroscopy | 宫腔镜检查
+- Laparoscopy | 腹腔镜检查
+- Thoracoscopy | 胸腔镜检查
+- Arthroscopy | 关节镜检查
+- Sigmoidoscopy | 乙状结肠镜检查
+- Capsule Endoscopy | 胶囊内镜
+- Enteroscopy | 小肠镜
+- Biopsy Forceps | 活检钳
+- Polypectomy | 息肉切除术
+- Endoscopic Mucosal Resection (EMR) | 内镜下黏膜切除术
+- Endoscopic Submucosal Dissection (ESD) | 内镜下黏膜剥离术
+
+### 功能检查
+- Electrocardiogram (ECG/EKG) | 心电图
+- Holter Monitor | 动态心电图
+- Event Monitor | 事件监测仪
+- Stress Test | 负荷试验
+- Exercise Stress Test | 运动负荷试验
+- Pharmacological Stress Test | 药物负荷试验
+- Echocardiographic Stress Test | 超声负荷试验
+- Nuclear Stress Test | 核素负荷试验
+- Electrophysiology Study (EPS) | 电生理检查
+- Tilt Table Test | 倾斜台试验
+- Pulse Oximetry | 脉搏血氧测定
+- Arterial Blood Gas (ABG) Analysis | 动脉血气分析
+- Pulmonary Function Test (PFT) | 肺功能检查
+- Spirometry | 肺量测定
+- Lung Volume Measurement | 肺容量测定
+- Diffusion Capacity | 弥散能力
+- Methacholine Challenge Test | 乙酰甲胆碱激发试验
+- Exercise Challenge Test | 运动激发试验
+- Cardiopulmonary Exercise Test (CPET) | 心肺运动试验
+- Six-Minute Walk Test (6MWT) | 六分钟步行试验
+- Electroencephalogram (EEG) | 脑电图
+- Video EEG | 视频脑电图
+- Ambulatory EEG | 动态脑电图
+- Evoked Potential | 诱发电位
+- Visual Evoked Potential (VEP) | 视觉诱发电位
+- Brainstem Auditory Evoked Potential (BAEP) | 脑干听觉诱发电位
+- Somatosensory Evoked Potential (SEP) | 体感诱发电位
+- Motor Evoked Potential (MEP) | 运动诱发电位
+- Electromyography (EMG) | 肌电图
+- Nerve Conduction Study (NCS) | 神经传导检查
+- Repetitive Nerve Stimulation (RNS) | 重复神经电刺激
+- Single Fiber EMG (SFEMG) | 单纤维肌电图
+- Quantitative Sensory Testing (QST) | 定量感觉测试
+- Autonomic Function Test | 自主神经功能检查
+- Sweat Test | 汗液试验
+- Skin Prick Test | 皮肤点刺试验
+- Patch Test | 斑贴试验
+- Intradermal Test | 皮内试验
+- Allergen Challenge Test | 过敏原激发试验
+- Food Challenge Test | 食物激发试验
+- Drug Challenge Test | 药物激发试验
+
+---
+
+## C. 治疗与干预 (Treatment & Intervention)
+
+### 治疗方式
+- Treatment | 治疗
+- Therapy | 疗法
+- Intervention | 干预
+- Management | 管理
+- Care | 护理
+- Palliative Care | 姑息治疗
+- Supportive Care | 支持治疗
+- Symptomatic Treatment | 对症治疗
+- Etiological Treatment | 对因治疗
+- Curative Treatment | 根治性治疗
+- Empirical Treatment | 经验性治疗
+- Definitive Treatment | 确定性治疗
+- First-Line Treatment | 一线治疗
+- Second-Line Treatment | 二线治疗
+- Third-Line Treatment | 三线治疗
+- Salvage Therapy | 挽救性治疗
+- Maintenance Therapy | 维持治疗
+- Adjuvant Therapy | 辅助治疗
+- Neoadjuvant Therapy | 新辅助治疗
+- Induction Therapy | 诱导治疗
+- Consolidation Therapy | 巩固治疗
+- Bridge Therapy | 桥接治疗
+- Combination Therapy | 联合治疗
+- Monotherapy | 单药治疗
+- Sequential Therapy | 序贯治疗
+- Intermittent Therapy | 间歇治疗
+- Continuous Therapy | 持续治疗
+- Dose Reduction | 剂量减少
+- Dose Escalation | 剂量递增
+- Dose Adjustment | 剂量调整
+- Treatment Holiday | 治疗间歇
+- Treatment Interruption | 治疗中断
+- Treatment Discontinuation | 治疗终止
+- Treatment Failure | 治疗失败
+- Treatment Response | 治疗应答
+- Treatment Resistance | 治疗耐药
+- Treatment Toxicity | 治疗毒性
+- Treatment-Related Adverse Event (TRAE) | 治疗相关不良事件
+
+### 药物治疗
+- Pharmacotherapy | 药物治疗
+- Medication | 药物
+- Drug | 药品
+- Pharmaceutical | 制药
+- Prescription Drug | 处方药
+- Over-the-Counter (OTC) Drug | 非处方药
+- Generic Drug | 仿制药
+- Brand Name Drug | 品牌药
+- Orphan Drug | 孤儿药
+- Essential Medicine | 基本药物
+- Formulary | 药品目录
+- Dosage Form | 剂型
+- Tablet | 片剂
+- Capsule | 胶囊
+- Injection | 注射剂
+- Infusion | 输注
+- Topical | 外用
+- Oral | 口服
+- Intravenous (IV) | 静脉内
+- Intramuscular (IM) | 肌内
+- Subcutaneous (SC) | 皮下
+- Intradermal (ID) | 皮内
+- Intrathecal | 鞘内
+- Epidural | 硬膜外
+- Intra-arterial | 动脉内
+- Intraperitoneal | 腹腔内
+- Intravesical | 膀胱内
+- Inhalation | 吸入
+- Nasal | 鼻用
+- Ophthalmic | 眼用
+- Otic | 耳用
+- Rectal | 直肠
+- Vaginal | 阴道
+- Transdermal | 透皮
+- Sublingual | 舌下
+- Buccal | 颊黏膜
+- Extended-Release (ER) | 缓释
+- Controlled-Release (CR) | 控释
+- Immediate-Release (IR) | 即释
+- Delayed-Release (DR) | 迟释
+- Enteric-Coated | 肠溶
+- Film-Coated | 薄膜衣
+- Sustained-Release (SR) | 长效
+- Loading Dose | 负荷剂量
+- Maintenance Dose | 维持剂量
+- Therapeutic Dose | 治疗剂量
+- Subtherapeutic Dose | 亚治疗剂量
+- Toxic Dose | 中毒剂量
+- Lethal Dose (LD50) | 半数致死量
+- Effective Dose (ED50) | 半数有效量
+- Therapeutic Index (TI) | 治疗指数
+- Therapeutic Window | 治疗窗
+- Therapeutic Drug Monitoring (TDM) | 治疗药物监测
+- Pharmacokinetics (PK) | 药代动力学
+- Pharmacodynamics (PD) | 药效学
+- Absorption | 吸收
+- Distribution | 分布
+- Metabolism | 代谢
+- Excretion | 排泄
+- Bioavailability | 生物利用度
+- Half-Life | 半衰期
+- Clearance | 清除率
+- Volume of Distribution | 分布容积
+- Protein Binding | 蛋白结合
+- Drug Interaction | 药物相互作用
+- Adverse Drug Reaction (ADR) | 药物不良反应
+- Side Effect | 副作用
+- Contraindication | 禁忌症
+- Warning | 警告
+- Precaution | 注意事项
+- Black Box Warning | 黑框警告
+- Drug Allergy | 药物过敏
+- Cross-Reactivity | 交叉反应
+- Hypersensitivity | 超敏反应
+- Anaphylaxis | 过敏性休克
+- Idiosyncratic Reaction | 特异质反应
+- Tolerance | 耐受性
+- Dependence | 依赖性
+- Addiction | 成瘾性
+- Withdrawal | 戒断
+- Abuse | 滥用
+- Misuse | 误用
+
+### 手术治疗
+- Surgery | 手术
+- Operation | 手术
+- Surgical Procedure | 外科手术
+- Minimally Invasive Surgery | 微创手术
+- Laparoscopic Surgery | 腹腔镜手术
+- Robotic Surgery | 机器人手术
+- Endoscopic Surgery | 内镜手术
+- Microsurgery | 显微外科
+- Open Surgery | 开放手术
+- Exploratory Surgery | 探查手术
+- Diagnostic Surgery | 诊断性手术
+- Therapeutic Surgery | 治疗性手术
+- Curative Surgery | 根治性手术
+- Palliative Surgery | 姑息性手术
+- Reconstructive Surgery | 重建手术
+- Plastic Surgery | 整形外科手术
+- Cosmetic Surgery | 美容手术
+- Transplant Surgery | 移植手术
+- Donor | 供体
+- Recipient | 受体
+- Autograft | 自体移植
+- Allograft | 异体移植
+- Xenograft | 异种移植
+- Organ Transplantation | 器官移植
+- Tissue Transplantation | 组织移植
+- Bone Marrow Transplantation | 骨髓移植
+- Hematopoietic Stem Cell Transplantation (HSCT) | 造血干细胞移植
+- Autologous Transplantation | 自体移植
+- Syngeneic Transplantation | 同基因移植
+- Allogeneic Transplantation | 异基因移植
+- Matched Related Donor (MRD) | 匹配相关供体
+- Matched Unrelated Donor (MUD) | 匹配无关供体
+- Haploidentical Donor | 单倍体供体
+- Cord Blood Transplantation | 脐带血移植
+- Graft-versus-Host Disease (GVHD) | 移植物抗宿主病
+- Host-versus-Graft Disease (HVGD) | 宿主抗移植物病
+- Graft Rejection | 移植物排斥
+- Graft Failure | 移植物失败
+- Engraftment | 植入
+- Chimerism | 嵌合状态
+- Conditioning Regimen | 预处理方案
+- Myeloablative Conditioning | 清髓性预处理
+- Reduced-Intensity Conditioning (RIC) | 降低强度预处理
+- Non-Myeloablative Conditioning | 非清髓性预处理
+- Anesthesia | 麻醉
+- General Anesthesia | 全身麻醉
+- Local Anesthesia | 局部麻醉
+- Regional Anesthesia | 区域麻醉
+- Spinal Anesthesia | 脊髓麻醉
+- Epidural Anesthesia | 硬膜外麻醉
+- Nerve Block | 神经阻滞
+- Sedation | 镇静
+- Conscious Sedation | 清醒镇静
+- Deep Sedation | 深度镇静
+- Monitored Anesthesia Care (MAC) | 监护麻醉
+- Preoperative | 术前
+- Intraoperative | 术中
+- Postoperative | 术后
+- Perioperative | 围手术期
+- Surgical Margin | 手术切缘
+- Negative Margin | 阴性切缘
+- Positive Margin | 阳性切缘
+- Clear Margin | 清晰切缘
+- R0 Resection | R0 切除
+- R1 Resection | R1 切除
+- R2 Resection | R2 切除
+- Debulking Surgery | 减瘤手术
+- Lymph Node Dissection | 淋巴结清扫
+- Sentinel Lymph Node Biopsy | 前哨淋巴结活检
+- Frozen Section | 冰冻切片
+- Permanent Section | 石蜡切片
+- Surgical Complication | 手术并发症
+- Postoperative Infection | 术后感染
+- Wound Infection | 伤口感染
+- Surgical Site Infection (SSI) | 手术部位感染
+- Hemorrhage | 出血
+- Hematoma | 血肿
+- Seroma | 血清肿
+- Dehiscence | 裂开
+- Evisceration | 内脏脱出
+- Adhesion | 粘连
+- Ileus | 肠梗阻
+- Fistula | 瘘管
+- Anastomotic Leak | 吻合口漏
+- Deep Vein Thrombosis (DVT) | 深静脉血栓
+- Pulmonary Embolism (PE) | 肺栓塞
+- Atelectasis | 肺不张
+- Pneumonia | 肺炎
+- Urinary Retention | 尿潴留
+- Delirium | 谵妄
+- Postoperative Cognitive Dysfunction (POCD) | 术后认知功能障碍
+
+### 放射治疗
+- Radiotherapy | 放射治疗
+- Radiation Therapy | 放射治疗
+- Radiation Oncology | 放射肿瘤学
+- External Beam Radiotherapy (EBRT) | 外照射放疗
+- Intensity-Modulated Radiation Therapy (IMRT) | 调强放射治疗
+- Image-Guided Radiation Therapy (IGRT) | 图像引导放射治疗
+- Stereotactic Body Radiation Therapy (SBRT) | 立体定向体部放疗
+- Stereotactic Radiosurgery (SRS) | 立体定向放射外科
+- Gamma Knife | 伽玛刀
+- CyberKnife | 射波刀
+- Proton Therapy | 质子治疗
+- Heavy Ion Therapy | 重离子治疗
+- Brachytherapy | 近距离放疗
+- Intracavitary Brachytherapy | 腔内近距离治疗
+- Interstitial Brachytherapy | 组织间近距离治疗
+- Surface Brachytherapy | 表面近距离治疗
+- High-Dose-Rate (HDR) Brachytherapy | 高剂量率近距离治疗
+- Low-Dose-Rate (LDR) Brachytherapy | 低剂量率近距离治疗
+- Pulsed-Dose-Rate (PDR) Brachytherapy | 脉冲剂量率近距离治疗
+- Radioisotope Therapy | 放射性核素治疗
+- Radioiodine Therapy | 放射性碘治疗
+- Peptide Receptor Radionuclide Therapy (PRRT) | 肽受体放射性核素治疗
+- Radioembolization | 放射性栓塞
+- Selective Internal Radiation Therapy (SIRT) | 选择性内照射治疗
+- Transarterial Radioembolization (TARE) | 经动脉放射性栓塞
+- Total Body Irradiation (TBI) | 全身照射
+- Total Skin Electron Therapy (TSET) | 全身电子束治疗
+- Radiation Dose | 放射剂量
+- Gray (Gy) | 戈瑞
+- Sievert (Sv) | 希沃特
+- Fractionation | 分次
+- Hypofractionation | 大分割
+- Hyperfractionation | 超分割
+- Accelerated Fractionation | 加速分次
+- Concurrent Chemoradiotherapy | 同步放化疗
+- Neoadjuvant Radiotherapy | 新辅助放疗
+- Adjuvant Radiotherapy | 辅助放疗
+- Palliative Radiotherapy | 姑息性放疗
+- Radiation Planning | 放疗计划
+- Treatment Planning System (TPS) | 治疗计划系统
+- Computed Tomography Simulation (CT Sim) | CT 模拟
+- Target Volume | 靶体积
+- Gross Tumor Volume (GTV) | 大体肿瘤体积
+- Clinical Target Volume (CTV) | 临床靶体积
+- Planning Target Volume (PTV) | 计划靶体积
+- Organ at Risk (OAR) | 危及器官
+- Dose-Volume Histogram (DVH) | 剂量体积直方图
+- Radiation Toxicity | 放射毒性
+- Acute Toxicity | 急性毒性
+- Late Toxicity | 晚期毒性
+- Radiation Dermatitis | 放射性皮炎
+- Radiation Mucositis | 放射性黏膜炎
+- Radiation Pneumonitis | 放射性肺炎
+- Radiation Fibrosis | 放射性纤维化
+- Radiation Necrosis | 放射性坏死
+- Secondary Malignancy | 继发性恶性肿瘤
+
+### 免疫治疗
+- Immunotherapy | 免疫治疗
+- Cancer Immunotherapy | 肿瘤免疫治疗
+- Immune Checkpoint Inhibitor | 免疫检查点抑制剂
+- PD-1 Inhibitor | PD-1 抑制剂
+- PD-L1 Inhibitor | PD-L1 抑制剂
+- CTLA-4 Inhibitor | CTLA-4 抑制剂
+- LAG-3 Inhibitor | LAG-3 抑制剂
+- TIM-3 Inhibitor | TIM-3 抑制剂
+- CAR-T Cell Therapy | CAR-T 细胞疗法
+- Chimeric Antigen Receptor (CAR) | 嵌合抗原受体
+- T Cell Receptor (TCR) Therapy | T 细胞受体疗法
+- Tumor-Infiltrating Lymphocyte (TIL) Therapy | 肿瘤浸润淋巴细胞疗法
+- Natural Killer (NK) Cell Therapy | 自然杀伤细胞疗法
+- Dendritic Cell Vaccine | 树突状细胞疫苗
+- Cancer Vaccine | 肿瘤疫苗
+- Therapeutic Vaccine | 治疗性疫苗
+- Preventive Vaccine | 预防性疫苗
+- Oncolytic Virus Therapy | 溶瘤病毒疗法
+- Cytokine Therapy | 细胞因子治疗
+- Interleukin-2 (IL-2) | 白介素 -2
+- Interferon (IFN) | 干扰素
+- Granulocyte Colony-Stimulating Factor (G-CSF) | 粒细胞集落刺激因子
+- Granulocyte-Macrophage Colony-Stimulating Factor (GM-CSF) | 粒细胞 - 巨噬细胞集落刺激因子
+- Erythropoietin (EPO) | 促红细胞生成素
+- Thrombopoietin (TPO) | 促血小板生成素
+- Immunomodulator | 免疫调节剂
+- Immunosuppressant | 免疫抑制剂
+- Corticosteroid | 皮质类固醇
+- Calcineurin Inhibitor | 钙调神经磷酸酶抑制剂
+- mTOR Inhibitor | mTOR 抑制剂
+- JAK Inhibitor | JAK 抑制剂
+- BTK Inhibitor | BTK 抑制剂
+- S1P Receptor Modulator | S1P 受体调节剂
+- Complement Inhibitor | 补体抑制剂
+- Immune-Related Adverse Event (irAE) | 免疫相关不良事件
+- Cytokine Release Syndrome (CRS) | 细胞因子释放综合征
+- Immune Effector Cell-Associated Neurotoxicity Syndrome (ICANS) | 免疫效应细胞相关神经毒性综合征
+- Macrophage Activation Syndrome (MAS) | 巨噬细胞活化综合征
+- Hemophagocytic Lymphohistiocytosis (HLH) | 噬血细胞性淋巴组织细胞增生症
+
+### 介入治疗
+- Interventional Radiology | 介入放射学
+- Interventional Cardiology | 介入心脏病学
+- Interventional Oncology | 介入肿瘤学
+- Angioplasty | 血管成形术
+- Percutaneous Transluminal Angioplasty (PTA) | 经皮腔内血管成形术
+- Balloon Angioplasty | 球囊血管成形术
+- Stenting | 支架置入术
+- Coronary Stenting | 冠状动脉支架置入术
+- Drug-Eluting Stent (DES) | 药物洗脱支架
+- Bare-Metal Stent (BMS) | 金属裸支架
+- Bioresorbable Stent | 生物可吸收支架
+- Atherectomy | 斑块旋切术
+- Thrombectomy | 血栓切除术
+- Embolization | 栓塞术
+- Transarterial Chemoembolization (TACE) | 经动脉化疗栓塞
+- Drug-Eluting Bead (DEB) | 载药微球
+- Radiofrequency Ablation (RFA) | 射频消融
+- Microwave Ablation (MWA) | 微波消融
+- Cryoablation | 冷冻消融
+- High-Intensity Focused Ultrasound (HIFU) | 高强度聚焦超声
+- Laser Ablation | 激光消融
+- Irreversible Electroporation (IRE) | 不可逆电穿孔
+- Vertebroplasty | 椎体成形术
+- Kyphoplasty | 椎体后凸成形术
+- Nephrostomy | 肾造口术
+- Biliary Drainage | 胆道引流
+- Percutaneous Endoscopic Gastrostomy (PEG) | 经皮内镜下胃造口术
+- Inferior Vena Cava (IVC) Filter | 下腔静脉滤器
+- Transjugular Intrahepatic Portosystemic Shunt (TIPS) | 经颈静脉肝内门体分流术
+- Uterine Artery Embolization (UAE) | 子宫动脉栓塞术
+- Prostatic Artery Embolization (PAE) | 前列腺动脉栓塞术
+- Varicocele Embolization | 精索静脉栓塞术
+
+---
+
+## D. 临床试验 (Clinical Trials)
+
+### 试验设计
+- Clinical Trial | 临床试验
+- Clinical Study | 临床研究
+- Research Protocol | 研究方案
+- Study Protocol | 研究方案
+- Protocol Amendment | 方案修正案
+- Study Design | 研究设计
+- Randomized Controlled Trial (RCT) | 随机对照试验
+- Non-Randomized Trial | 非随机试验
+- Parallel Design | 平行设计
+- Crossover Design | 交叉设计
+- Factorial Design | 析因设计
+- Adaptive Design | 适应性设计
+- Single-Arm Trial | 单臂试验
+- Double-Blind | 双盲
+- Single-Blind | 单盲
+- Open-Label | 开放标签
+- Placebo-Controlled | 安慰剂对照
+- Active-Controlled | 活性对照
+- Dose-Ranging Study | 剂量范围研究
+- Dose-Finding Study | 剂量探索研究
+- Dose-Response Study | 剂量反应研究
+- Non-Inferiority Trial | 非劣效性试验
+- Superiority Trial | 优效性试验
+- Equivalence Trial | 等效性试验
+- Bioequivalence Study | 生物等效性研究
+- Pharmacokinetic Study | 药代动力学研究
+- Pharmacodynamic Study | 药效动力学研究
+- Drug-Drug Interaction Study | 药物相互作用研究
+- Food Effect Study | 食物影响研究
+- QT Study | QT 间期研究
+- Thorough QT (TQT) Study | 彻底 QT 研究
+- Special Population Study | 特殊人群研究
+- Pediatric Study | 儿童研究
+- Geriatric Study | 老年研究
+- Renal Impairment Study | 肾功能损害研究
+- Hepatic Impairment Study | 肝功能损害研究
+- Pregnancy Study | 妊娠研究
+- Lactation Study | 哺乳研究
+- Ethnic Sensitivity Study | 种族敏感性研究
+- Bridging Study | 桥接研究
+
+### 试验分期
+- Phase I Trial | I 期临床试验
+- Phase Ia Trial | Ia 期试验
+- Phase Ib Trial | Ib 期试验
+- Phase II Trial | II 期临床试验
+- Phase IIa Trial | IIa 期试验
+- Phase IIb Trial | IIb 期试验
+- Phase III Trial | III 期临床试验
+- Phase IIIa Trial | IIIa 期试验
+- Phase IIIb Trial | IIIb 期试验
+- Phase IV Trial | IV 期临床试验
+- Phase 0 Trial | 0 期试验
+- Exploratory IND Study | 探索性 IND 研究
+- First-in-Human (FIH) Study | 首次人体研究
+- Single Ascending Dose (SAD) Study | 单次剂量递增研究
+- Multiple Ascending Dose (MAD) Study | 多次剂量递增研究
+- Food Effect Study | 食物影响研究
+- Proof of Concept (PoC) Study | 概念验证研究
+- Proof of Mechanism (PoM) Study | 机制验证研究
+- Proof of Principle (PoP) Study | 原理验证研究
+- Pilot Study | 预试验
+- Feasibility Study | 可行性研究
+- Pivotal Study | 关键研究
+- Registrational Study | 注册研究
+- Post-Marketing Study | 上市后研究
+- Observational Study | 观察性研究
+- Cohort Study | 队列研究
+- Case-Control Study | 病例对照研究
+- Cross-Sectional Study | 横断面研究
+- Longitudinal Study | 纵向研究
+- Retrospective Study | 回顾性研究
+- Prospective Study | 前瞻性研究
+- Natural History Study | 自然病程研究
+- Patient Registry | 患者登记
+- Real-World Study (RWS) | 真实世界研究
+- Pragmatic Clinical Trial | 实用性临床试验
+- Explanatory Clinical Trial | 解释性临床试验
+
+### 受试者管理
+- Subject | 受试者
+- Patient | 患者
+- Participant | 参与者
+- Volunteer | 志愿者
+- Healthy Volunteer | 健康志愿者
+- Patient Population | 患者人群
+- Study Population | 研究人群
+- Target Population | 目标人群
+- Inclusion Criteria | 纳入标准
+- Exclusion Criteria | 排除标准
+- Eligibility Criteria | 入选标准
+- Screening | 筛选
+- Screening Failure | 筛选失败
+- Enrollment | 入组
+- Recruitment | 招募
+- Retention | 保留
+- Withdrawal | 退出
+- Discontinuation | 中止
+- Lost to Follow-Up | 失访
+- Screening Log | 筛选日志
+- Enrollment Log | 入组日志
+- Subject Disposition | 受试者处置
+- Intent-to-Treat (ITT) Population | 意向性治疗人群
+- Per-Protocol (PP) Population | 符合方案人群
+- Safety Population | 安全性人群
+- Full Analysis Set (FAS) | 全分析集
+- Modified Intent-to-Treat (mITT) | 改良意向性治疗
+- Evaluable Population | 可评估人群
+- Completer Population | 完成者人群
+
+### 终点指标
+- Endpoint | 终点
+- Primary Endpoint | 主要终点
+- Secondary Endpoint | 次要终点
+- Tertiary Endpoint | 探索性终点
+- Surrogate Endpoint | 替代终点
+- Composite Endpoint | 复合终点
+- Clinical Endpoint | 临床终点
+- Patient-Reported Outcome (PRO) | 患者报告结局
+- Quality of Life (QoL) | 生活质量
+- Health-Related Quality of Life (HRQoL) | 健康相关生活质量
+- Functional Status | 功能状态
+- Symptom Score | 症状评分
+- Pain Score | 疼痛评分
+- Response Rate | 应答率
+- Complete Response (CR) | 完全应答
+- Partial Response (PR) | 部分应答
+- Stable Disease (SD) | 疾病稳定
+- Progressive Disease (PD) | 疾病进展
+- Objective Response Rate (ORR) | 客观应答率
+- Disease Control Rate (DCR) | 疾病控制率
+- Duration of Response (DoR) | 应答持续时间
+- Time to Response (TTR) | 应答时间
+- Progression-Free Survival (PFS) | 无进展生存期
+- Overall Survival (OS) | 总生存期
+- Disease-Free Survival (DFS) | 无病生存期
+- Recurrence-Free Survival (RFS) | 无复发生存期
+- Event-Free Survival (EFS) | 无事件生存期
+- Metastasis-Free Survival (MFS) | 无转移生存期
+- Time to Progression (TTP) | 疾病进展时间
+- Time to Treatment Failure (TTF) | 治疗失败时间
+- Hazard Ratio (HR) | 风险比
+- Confidence Interval (CI) | 置信区间
+- P-Value | P 值
+- Statistical Significance | 统计学显著性
+- Clinical Significance | 临床显著性
+- Minimal Clinically Important Difference (MCID) | 最小临床重要差异
+
+### 安全性与不良事件
+- Safety | 安全性
+- Adverse Event (AE) | 不良事件
+- Adverse Drug Reaction (ADR) | 药物不良反应
+- Serious Adverse Event (SAE) | 严重不良事件
+- Severe Adverse Event | 重度不良事件
+- Unexpected Adverse Event | 意外不良事件
+- Treatment-Emergent Adverse Event (TEAE) | 治疗期不良事件
+- Treatment-Related Adverse Event (TRAE) | 治疗相关不良事件
+- Drug-Related Adverse Event | 药物相关不良事件
+- Dose-Limiting Toxicity (DLT) | 剂量限制性毒性
+- Maximum Tolerated Dose (MTD) | 最大耐受剂量
+- Recommended Phase 2 Dose (RP2D) | 推荐 II 期剂量
+- Recommended Dose (RD) | 推荐剂量
+- Optimal Dose | 最佳剂量
+- Toxicity | 毒性
+- Adverse Reaction | 不良反应
+- Side Effect | 副作用
+- Complication | 并发症
+- Sequela | 后遗症
+- Contraindication | 禁忌症
+- Warning | 警告
+- Precaution | 注意事项
+- National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) | NCI 不良事件通用术语标准
+- Grade 1 AE | 1 级不良事件
+- Grade 2 AE | 2 级不良事件
+- Grade 3 AE | 3 级不良事件
+- Grade 4 AE | 4 级不良事件
+- Grade 5 AE | 5 级不良事件
+- Mild AE | 轻度不良事件
+- Moderate AE | 中度不良事件
+- Severe AE | 重度不良事件
+- Life-Threatening AE | 危及生命的不良事件
+- Fatal AE | 致死性不良事件
+- Causality | 因果关系
+- Related | 相关
+- Not Related | 不相关
+- Possibly Related | 可能相关
+- Probably Related | 很可能相关
+- Definitely Related | 确定相关
+- Expectedness | 预期性
+- Expected AE | 预期不良事件
+- Unexpected AE | 意外不良事件
+- Signal Detection | 信号检测
+- Risk Management | 风险管理
+- Risk Minimization | 风险最小化
+- Benefit-Risk Assessment | 获益 - 风险评估
+- Data Safety Monitoring Board (DSMB) | 数据安全监查委员会
+- Independent Data Monitoring Committee (IDMC) | 独立数据监查委员会
+- Safety Monitoring Committee (SMC) | 安全性监查委员会
+- Interim Analysis | 中期分析
+- Stopping Rule | 停止规则
+- Futility Analysis | 无效性分析
+- Early Termination | 早期终止
+- Study Suspension | 研究暂停
+- Study Discontinuation | 研究终止
+
+### 数据管理与统计
+- Data Management | 数据管理
+- Clinical Data Management (CDM) | 临床数据管理
+- Case Report Form (CRF) | 病例报告表
+- Electronic Case Report Form (eCRF) | 电子病例报告表
+- Electronic Data Capture (EDC) | 电子数据采集
+- Data Entry | 数据录入
+- Data Validation | 数据验证
+- Data Cleaning | 数据清理
+- Query | 质疑
+- Query Resolution | 质疑解决
+- Database Lock | 数据库锁定
+- Database Unlock | 数据库解锁
+- Data Transfer | 数据传输
+- Data Reconciliation | 数据核对
+- Source Data Verification (SDV) | 源数据核查
+- Source Document | 源文件
+- Electronic Source Document | 电子源文件
+- Medical Coding | 医学编码
+- MedDRA | 医学术语词典
+- WHO Drug Dictionary | WHO 药物词典
+- ICD | 国际疾病分类
+- Statistical Analysis | 统计分析
+- Statistical Analysis Plan (SAP) | 统计分析计划
+- Descriptive Statistics | 描述性统计
+- Inferential Statistics | 推断性统计
+- Hypothesis Testing | 假设检验
+- Null Hypothesis | 零假设
+- Alternative Hypothesis | 备择假设
+- Type I Error | I 类错误
+- Type II Error | II 类错误
+- Alpha Level | α水平
+- Beta Level | β水平
+- Power | 检验效能
+- Sample Size | 样本量
+- Sample Size Calculation | 样本量计算
+- Power Analysis | 效能分析
+- Randomization | 随机化
+- Randomization Schedule | 随机化时间表
+- Stratification | 分层
+- Blocking | 区组
+- Minimization | 最小化
+- Blinding | 盲法
+- Unblinding | 揭盲
+- Emergency Unblinding | 紧急揭盲
+- Treatment Code | 治疗代码
+- Investigational Product | 试验用药品
+- Drug Accountability | 药物管理
+- Drug Dispensation | 药物分发
+- Drug Return | 药物退回
+- Drug Destruction | 药物销毁
+- Compliance | 依从性
+- Adherence | 依从性
+- Protocol Compliance | 方案依从性
+- Good Clinical Practice (GCP) | 药物临床试验质量管理规范
+- ICH-GCP | ICH 药物临床试验质量管理规范
+- Informed Consent | 知情同意
+- Informed Consent Form (ICF) | 知情同意书
+- Assent Form | 赞同书
+- Legally Authorized Representative (LAR) | 法定授权代表
+- Institutional Review Board (IRB) | 机构审查委员会
+- Independent Ethics Committee (IEC) | 独立伦理委员会
+- Ethics Approval | 伦理批准
+- Regulatory Approval | 监管批准
+- Clinical Trial Application (CTA) | 临床试验申请
+- Investigational New Drug (IND) | 新药临床试验申请
+- Annual Report | 年度报告
+- Safety Report | 安全性报告
+- Development Safety Update Report (DSUR) | 研发安全性更新报告
+- Periodic Safety Update Report (PSUR) | 定期安全性更新报告
+- Clinical Study Report (CSR) | 临床研究报告
+- Abbreviated Clinical Study Report | 简式临床研究报告
+- Integrated Summary of Safety (ISS) | 安全性综合总结
+- Integrated Summary of Efficacy (ISE) | 有效性综合总结
+
+---
+
+## E. 器官系统与解剖 (Organ Systems & Anatomy)
+
+### 身体系统
+- Body System | 身体系统
+- Organ System | 器官系统
+- Integumentary System | 皮肤系统
+- Skeletal System | 骨骼系统
+- Muscular System | 肌肉系统
+- Nervous System | 神经系统
+- Central Nervous System (CNS) | 中枢神经系统
+- Peripheral Nervous System (PNS) | 周围神经系统
+- Autonomic Nervous System (ANS) | 自主神经系统
+- Sympathetic Nervous System | 交感神经系统
+- Parasympathetic Nervous System | 副交感神经系统
+- Somatic Nervous System | 躯体神经系统
+- Enteric Nervous System | 肠神经系统
+- Endocrine System | 内分泌系统
+- Cardiovascular System | 心血管系统
+- Circulatory System | 循环系统
+- Lymphatic System | 淋巴系统
+- Immune System | 免疫系统
+- Respiratory System | 呼吸系统
+- Digestive System | 消化系统
+- Gastrointestinal System | 胃肠道系统
+- Urinary System | 泌尿系统
+- Reproductive System | 生殖系统
+- Male Reproductive System | 男性生殖系统
+- Female Reproductive System | 女性生殖系统
+- Hematologic System | 血液系统
+- Sensory System | 感觉系统
+- Visual System | 视觉系统
+- Auditory System | 听觉系统
+- Olfactory System | 嗅觉系统
+- Gustatory System | 味觉系统
+- Integumentary System | 被皮系统
+
+### 解剖结构
+- Anatomy | 解剖学
+- Gross Anatomy | 大体解剖学
+- Microscopic Anatomy | 显微解剖学
+- Surface Anatomy | 表面解剖学
+- Regional Anatomy | 局部解剖学
+- Systemic Anatomy | 系统解剖学
+- Developmental Anatomy | 发育解剖学
+- Embryology | 胚胎学
+- Comparative Anatomy | 比较解剖学
+- Radiographic Anatomy | 影像解剖学
+- Cross-Sectional Anatomy | 断面解剖学
+- Head | 头
+- Neck | 颈
+- Thorax | 胸
+- Abdomen | 腹
+- Pelvis | 骨盆
+- Back | 背
+- Upper Limb | 上肢
+- Lower Limb | 下肢
+- Anterior | 前
+- Posterior | 后
+- Superior | 上
+- Inferior | 下
+- Medial | 内侧
+- Lateral | 外侧
+- Proximal | 近端
+- Distal | 远端
+- Superficial | 浅
+- Deep | 深
+- Ipsilateral | 同侧
+- Contralateral | 对侧
+- Sagittal Plane | 矢状面
+- Coronal Plane | 冠状面
+- Transverse Plane | 横断面
+- Midline | 中线
+- Midclavicular Line | 锁骨中线
+- Anterior Axillary Line | 腋前线
+- Midaxillary Line | 腋中线
+- Posterior Axillary Line | 腋后线
+- Midspinal Line | 脊中线
+- Sternal Line | 胸骨线
+- Parasternal Line | 胸骨旁线
+- Scapular Line | 肩胛线
+- Vertebral Line | 椎旁线
+
+---
+
+## 相关术语库
+
+- **抗体药物术语库**: `terminology/antibody-drugs.md`
+- **小核酸制药术语库**: `terminology/oligonucleotide.md`
+- **基因组学术语库**: `terminology/genomics.md`
+- **核心术语库**: `terminology/core-terms.md`
+
+## 更新日志
+
+### v2.0 (2026-03-05)
+- 重构为独立术语库文件
+- 添加元数据和使用说明
+- 优化分类结构
+- 新增临床试验详细术语
+
+### v1.0 (原始版本)
+- 初始术语库建立
