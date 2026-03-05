@@ -4,8 +4,39 @@
 
 **新用户可以**：
 1. 📖 阅读 [QUICKSTART.md](QUICKSTART.md) 快速上手
-2. ✅ 运行 `./check-installation.sh` 验证安装
-3. 🚀 直接在 Trae IDE 中调用技能进行翻译
+2. 📦 阅读 [SETUP.md](SETUP.md) 安装和配置
+3. ✅ 运行 `./check-installation.sh` 验证安装
+4. 🚀 直接在 Trae IDE 中调用技能进行翻译
+
+---
+
+## 🛠️ 文件处理能力
+
+### 支持的文档格式
+
+bio-med-translator 预装了多个 openskills，可直接读取和翻译各种格式的文档：
+
+| 文件格式 | 扩展名 | 使用的 Skill | 典型场景 |
+|---------|--------|-------------|---------|
+| Microsoft Word | .docx, .doc | docx skill | 药品注册申报资料、临床试验方案、SOP |
+| PDF | .pdf | pdf skill | 学术论文、监管指南、产品说明书 |
+| Markdown | .md, .markdown | markdown skill | 技术文档、README、笔记 |
+| Excel | .xlsx, .xls | excel skill | 实验数据、术语表、质量标准 |
+| 纯文本 | .txt | 直接读取 | 简单文本、草稿 |
+
+### 智能文件识别
+
+Agent 会自动识别文件类型并调用对应的 skill：
+
+```
+用户提供文件路径 → 识别扩展名 → 自动调用 skill → 读取内容 → 翻译
+```
+
+无需手动指定使用哪个 skill，一切自动完成！
+
+### 批量文件处理
+
+支持同时翻译多个文件，自动建立统一的术语表，确保跨文件术语一致性。
 
 ---
 
