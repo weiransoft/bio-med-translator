@@ -12,31 +12,95 @@
 
 ## 🛠️ 文件处理能力
 
-### 支持的文档格式
+### Python 文件读取和翻译
 
-bio-med-translator 预装了多个 openskills，可直接读取和翻译各种格式的文档：
+bio-med-translator 使用 Python 库直接读取和翻译各种格式的文档，无需依赖外部 skill：
 
-| 文件格式 | 扩展名 | 使用的 Skill | 典型场景 |
-|---------|--------|-------------|---------|
-| Microsoft Word | .docx, .doc | docx skill | 药品注册申报资料、临床试验方案、SOP |
-| PDF | .pdf | pdf skill | 学术论文、监管指南、产品说明书 |
-| Markdown | .md, .markdown | markdown skill | 技术文档、README、笔记 |
-| Excel | .xlsx, .xls | excel skill | 实验数据、术语表、质量标准 |
+| 文件格式 | 扩展名 | 使用的 Python 库 | 典型场景 |
+|---------|--------|----------------|---------|
+| Microsoft Word | .docx, .doc | python-docx | 药品注册申报资料、临床试验方案、SOP |
+| PDF | .pdf | pdfplumber | 学术论文、监管指南、产品说明书 |
+| Markdown | .md, .markdown | 直接读取 | 技术文档、README、笔记 |
+| Excel | .xlsx, .xls | openpyxl | 实验数据、术语表、质量标准 |
 | 纯文本 | .txt | 直接读取 | 简单文本、草稿 |
+
+### 依赖安装
+
+使用前需要安装必要的 Python 库：
+
+```bash
+# 安装所有依赖
+pip install python-docx pdfplumber openpyxl
+```
+
+### 使用 Python 脚本翻译
+
+#### 方法 1: 使用命令行工具
+
+```bash
+# 翻译 Word 文档（中文→英文）
+python scripts/file_translator.py "/path/to/document.docx" -l en
+
+# 翻译 PDF 文档（英文→中文）
+python scripts/file_translator.py "/path/to/paper.pdf" -l zh -o "/path/to/translated.docx"
+
+# 翻译 Excel 表格
+python scripts/file_translator.py "/path/to/data.xlsx" -l en
+```
+
+#### 方法 2: 在 Python 代码中使用
+
+```python
+from scripts.file_translator import translate_file
+
+# 翻译文件
+translate_file(
+    "/path/to/document.docx",
+    "/path/to/translated.docx",
+    target_language="en"  # 'en' 或 'zh'
+)
+```
+
+#### 方法 3: 使用 FileTranslator 类
+
+```python
+from scripts.file_translator import FileTranslator
+
+# 创建翻译器
+translator = FileTranslator("/path/to/document.docx", target_language="en")
+
+# 翻译内容
+translated_content = translator.translate()
+
+# 保存结果
+translator.save_translated_document("/path/to/translated.docx")
+```
 
 ### 智能文件识别
 
-Agent 会自动识别文件类型并调用对应的 skill：
+Agent 会自动识别文件类型并选择对应的读取器：
 
 ```
-用户提供文件路径 → 识别扩展名 → 自动调用 skill → 读取内容 → 翻译
+用户提供文件路径 → 识别扩展名 → 选择读取器 → 读取内容 → 翻译 → 生成文件
 ```
 
-无需手动指定使用哪个 skill，一切自动完成！
+无需手动指定使用哪个读取器，一切自动完成！
 
 ### 批量文件处理
 
 支持同时翻译多个文件，自动建立统一的术语表，确保跨文件术语一致性。
+
+```python
+# 批量翻译示例
+files = [
+    "/path/to/file1.docx",
+    "/path/to/file2.docx",
+    "/path/to/file3.pdf",
+]
+
+for file_path in files:
+    translate_file(file_path, target_language="en")
+```
 
 ---
 
