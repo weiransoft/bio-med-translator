@@ -321,7 +321,29 @@ terminology/
   - 可追溯性
 ```
 
-#### 5.2 术语对照表
+#### 5.2 文件名翻译
+```
+原文文件名 → 翻译文件名 → 生成新文件
+  ↓
+  - 提取文件名中的中文部分
+  - 翻译文件名中的专业术语
+  - 保留文档编号、版本号等标识符
+  - 保留文件扩展名
+  - 示例：
+    * 中文：AMVR-2025-0113 ZW062 项目原液 - 微生物限度检测分析方法验证报告 clean.docx
+    * 英文：AMVR-2025-0113 ZW062 Drug Substance - Microbial Limit Test Analysis Method Validation Report clean.md
+```
+
+**文件名翻译规则**：
+- ✅ 保留文档编号（如 AMVR-2025-0113）
+- ✅ 保留项目代码（如 ZW062）
+- ✅ 翻译专业术语（如 原液 → Drug Substance）
+- ✅ 翻译文档类型（如 验证报告 → Validation Report）
+- ✅ 保留状态标识（如 clean, draft, final）
+- ✅ 根据目标语言添加适当的后缀（如_EN, _ZH）或移除语言标识
+- ✅ 使用标准 Markdown 格式 (.md)
+
+#### 5.3 术语对照表
 ```
 项目术语表 → 格式化输出 → 附录
   ↓
@@ -330,7 +352,7 @@ terminology/
   - 新术语 | 建议译法 | 说明
 ```
 
-#### 5.3 翻译说明
+#### 5.4 翻译说明
 ```
 翻译过程记录 → 问题说明 → 建议
   ↓
@@ -816,16 +838,25 @@ GalNAc 是一种靶向配体，用于将寡核苷酸药物递送至肝细胞。
 - Ligand-conjugated oligonucleotide | 配体偶联寡核苷酸
 ```
 
-### 示例 6: Word 文档翻译（使用 Trae AI 直接读取）
+### 示例 6: 文件名翻译
 
 ```
-用户：请翻译这个文件 `/path/to/validation-report.docx`
+用户：请翻译这个文件 `/path/to/AMVR-2025-0113 ZW062 项目原液 - 微生物限度检测分析方法验证报告 clean.docx`
 
 Agent 响应：
 【文件读取】使用 Trae Read 工具直接读取 Word 文档
 
 【文档分析】
-- 文件名：validation-report.docx
+- 原文件名：AMVR-2025-0113 ZW062 项目原液 - 微生物限度检测分析方法验证报告 clean.docx
+- 文件名翻译：
+  * 保留：AMVR-2025-0113 (文档编号)
+  * 保留：ZW062 (项目代码)
+  * 翻译：项目原液 → Drug Substance
+  * 翻译：微生物限度检测 → Microbial Limit Test
+  * 翻译：分析方法 → Analysis Method
+  * 翻译：验证报告 → Validation Report
+  * 保留：clean (状态标识)
+- 新文件名：AMVR-2025-0113 ZW062 Drug Substance - Microbial Limit Test Analysis Method Validation Report clean.md
 - 文档类型：验证报告 (Validation Report)
 - 领域识别：生物制药 - 质量控制
 - 加载术语库：core-terms.md
@@ -838,11 +869,12 @@ Agent 响应：
 - 生成标准 Markdown 格式
 
 【翻译结果】
-生成文件：`/path/to/validation-report_EN.md`
+生成文件：`/path/to/AMVR-2025-0113 ZW062 Drug Substance - Microbial Limit Test Analysis Method Validation Report clean.md`
 - 完整翻译所有章节
 - 16 个表格全部正确格式化
 - 术语使用准确一致
 - MD 语法正确，可以正常预览
+- 文件名已翻译为英文
 ```
 
 ### 示例 7: PDF 文档翻译
@@ -925,6 +957,13 @@ Agent 响应：
 ```
 
 ## 🔄 版本历史
+
+### v4.1 (2026-03-06) - 文件名翻译增强版
+- ✅ 添加文件名自动翻译功能
+- ✅ 翻译文件名中的专业术语
+- ✅ 保留文档编号、项目代码等标识符
+- ✅ 添加详细的文件名翻译示例
+- ✅ 完善交付物生成流程
 
 ### v4.0 (2026-03-05) - Trae AI 原生版
 - ✅ 移除所有 Python 代码依赖
