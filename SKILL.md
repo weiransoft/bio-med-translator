@@ -113,6 +113,35 @@ python-docx → 生成保持格式的 Word 文档
 
 使用 Python 脚本实现 Word 文档的读取、翻译和格式保持，确保生成的文档与原文档格式一致。
 
+#### 通用翻译脚本
+
+Skill 提供通用的 Python 翻译脚本，位于 `scripts/` 目录：
+
+**translate_docx.py** - Word 文档翻译脚本
+```bash
+# 基础用法
+python scripts/translate_docx.py input.docx output.docx
+
+# 使用翻译映射表
+python scripts/translate_docx.py input.docx output.docx translations.json
+```
+
+**脚本功能**:
+- 支持段落、表格、页眉、页脚翻译
+- 可选的 JSON 翻译映射表
+- 自动识别中英混合标题格式
+- 保持文档原有格式
+
+**verify_translation.py** - 翻译验证脚本
+```bash
+python scripts/verify_translation.py translated.docx
+```
+
+**脚本功能**:
+- 检查文档中是否还有中文残留
+- 输出未翻译内容的位置和文本
+- 返回退出码（0=完全翻译，1=有残留）
+
 #### 使用示例
 
 **示例 1: 基础 Word 格式翻译（保持原格式）**
